@@ -2,6 +2,8 @@
 
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **GTest**
 
+[![Coverage Status](https://coveralls.io/repos/github/Lerra227/lab05-fix/badge.svg?branch=refs/heads/master)](https://coveralls.io/github/Lerra227/lab05-fix?branch=refs/heads/master)
+
 ```sh
 lera@Lerra:~$ mkdir lab05-fix
 lera@Lerra:~$ cd lab05-fix
